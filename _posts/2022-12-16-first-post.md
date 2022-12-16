@@ -1,6 +1,5 @@
 ---
 title: "My first post"
-layout: post
 date: 2022-12-16
 categories:
   - Blog
