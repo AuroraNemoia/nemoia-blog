@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Noelle Nemoia"
-  avatar : "https://avatars.githubusercontent.com/u/8508676?s=96&v=4"
-  bio    : "Definitely human, I swear."
+  avatar : "/assets/images/Aurora.png"
+  bio    : "I'm definitely human, I swear."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

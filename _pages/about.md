@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Hey, my name is Noelle!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm a self-proclaimed moron who spends her time wizzing around random tech gizmos until they go blinky or bleep.
+
+From a young age, I've been fascinated by the potential of what technology can bring to us in the present and future. Technologies like AI, VR, instant communication, it's all incredible stuff. And I'm glad to be in this era of constant innovation. There are awful things going on out there, but nothing can ever stop the march of progress.
+
+In my years I've worked on a lot of projects big and small, involving development, sound design, music, graphic/UI/UX design, marketing and more.
+
+This blog aims to be a hub for letting my thoughts out on all those things. So that I don't have to always repeat myself.
